@@ -21,3 +21,7 @@ see the slides.
 # Acknowledgement
 
 We want to thanks Mr. Li (Yongqi Li AKA ASS LEE) who prepare the zhihu dataset for us, really appreciate for what he did.
+
+# Citation
+
+Cunxiao Du, Zhaozheng Chen, Fuli Feng, Lei Zhu, Tian Gan, Liqiang Nie. Explicit Interaction Model towards Text Classification.In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)
