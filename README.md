@@ -1,11 +1,9 @@
 # AAAI_2019_EXAM
 Official implementation of "Explicit Interaction Model towards Text Classification".
 
-# Slides and Video
+# Slides
 
-AAAI required us to upload the slides and video to chase for the oral chance. We upload here and you can see it to help you understanding our paper. :)
-
-Our paper was selected to be the oral paper, I will post the video about my presentation at AAAI when I finished the conference, due to I am very busy now the readme is not completed, once I have time I will re-write it.
+AAAI required us to upload the slides for the oral chance. We upload here and you can see it to help you understanding our paper. :)
 
 # Code Instruction
 
