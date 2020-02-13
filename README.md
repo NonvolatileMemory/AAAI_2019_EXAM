@@ -29,3 +29,7 @@ We want to thanks Mr. Li (Yongqi Li AKA ASS LEE) who prepare the zhihu dataset f
 # Copyright
 > Copyright (C) 2019 Shandong University.
 > Licence GPU GPL v3 or later, see <http://www.gnu.org/licenses/>. Distributed WITHOUT ANY WARRANTY.
+
+# Issues
+
+Please directly send me an email instead of leave issue here (because sometimes I will ignore it), but if you want to share your question, you could paste the question and my answer in the issue.
