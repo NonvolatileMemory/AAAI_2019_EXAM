@@ -13,7 +13,7 @@ Dependency:
 - One Titan XP
 
 # Datasets Instruction
-Use the preprocess python file from region embedding (ICLR 2019).
+Use the preprocess python file from region embedding (ICLR 2018).
 
 # Please see the slides for some tricks in baselines.
 # Acknowledgement
